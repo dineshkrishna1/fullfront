@@ -1,0 +1,7 @@
+.text {
+  padding: 7px;
+}
+.click {
+  display: flex;
+  gap: 5px;
+}
